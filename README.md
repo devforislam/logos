@@ -1,6 +1,6 @@
 # logos
 
-Special thanks to [@Sarwar](https://github.com/sarwar27) for designing the beatiful logo. May Allah reward him with goodness.
+Special thanks to [@Sarwar](https://github.com/sarwar27) for designing the beatiful logo. May Allah reward [@Sarwar](https://github.com/sarwar27) with goodness.
 
 <p float="left">
   <img src="/isl.JPG" width="100" />
